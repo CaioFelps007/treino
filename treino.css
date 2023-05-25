@@ -1,8 +1,62 @@
 html {
-    background-color: black;
+    background-image: linear-gradient(blue, grey);
+    height: 100%;
+}
+
+
+
+#titulo {
+
+    text-align: center;
+    font-size: 30px;
+
+    border-bottom: 3px solid white;
+    padding-bottom: 20px;
+}
+
+.fazerLogin {
+    text-align: center;
+    margin-top: 7%;
+}
+
+#apresentacao {
+    margin-bottom: 2%;
+    color: white;
+    font-size: 37px;
+}
+
+#preencher {
+    text-align: center;
+    font-size: 30px;
+    border: 3px solid white;
+    border-radius: 30px;
+    padding-top: 3%;
 
 }
 
-#titulo {
-    color: white;
+#email {
+    height: 30px;
+    width: 320px;
+    border-radius: 10px;
+    
+}
+
+#senha {
+    height: 30px;
+    width: 320px;
+    border-radius: 10px;
+}
+
+#entrarbotao {
+    height: 30px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: bisque;
+  
+}
+
+#criaracc {
+    margin: 0%;
+    font-size: 80%;
 }
