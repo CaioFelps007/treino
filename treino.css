@@ -1,15 +1,27 @@
-html{
-    background-color: red;
-
+body {
+    background-image: url("fundored.jpg");
+    
 }
 
-.LoginC {
-    border: solid 2px black;
-    width: 25%;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10%;
-    padding-top: 3%;
-    padding-bottom: 3%;
+
+    
+
+
+.formulario {
+  text-align: center;
+ 
+    width: 20%;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: 10%;
+ background-color: red;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.6);
+  text-align: center;
 }
+
+#titulologin {
+    color: aliceblue;
+}
+
+
+
